@@ -1,2 +1,2 @@
-x=("이예림 바보")
-print(x)
+string=input("인삿말을 입력하세요")
+print(string)
