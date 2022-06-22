@@ -6,3 +6,7 @@ print("3//2=",3//2)
 
 print("안녕하세요")
 print('안녕하세요')
+
+print("hello"+"world")
+
+print("3//2=",3//2)
