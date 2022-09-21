@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80a91a2-b0b6-4b5e-843e-6720836ae38b" name="변경" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pystudy_1/code_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/pystudy_1/code_study.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,6 +67,9 @@
       <module name="PyStudy-10201" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pystudy_1" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -91,6 +100,9 @@
       <option name="presentableId" value="Default" />
       <updated>1655046143078</updated>
       <workItem from="1655046145650" duration="1556000" />
+      <workItem from="1662528190670" duration="159000" />
+      <workItem from="1662528482791" duration="16000" />
+      <workItem from="1662528541963" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1655047665303</created>
@@ -141,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655274632634</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1655275194124</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655275194124</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
